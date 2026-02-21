@@ -1,0 +1,26 @@
+{
+  "incident_id": "incident_bundle_20260212_132223",
+  "created_utc": "2026-02-12T12:22:24.0730322Z",
+  "source_zip": {
+    "path": "D:\\VGPlatform\\reports\\incident_bundle_20260212_132223.zip",
+    "name": "incident_bundle_20260212_132223.zip",
+    "bytes": 25553,
+    "sha256": "B20B99621EC31EE658E0089879FDB314F4B72D89EC54DD965FA41251908F4CB5"
+  },
+  "stage": {
+    "stage_root": "D:\\VGPlatform\\labs\\publish_staging",
+    "stage_dir": "D:\\VGPlatform\\labs\\publish_staging\\incident_bundle_20260212_132223",
+    "artifact_zip": "D:\\VGPlatform\\labs\\publish_staging\\incident_bundle_20260212_132223\\artifact\\incident_bundle_20260212_132223.zip"
+  },
+  "zip_entries_sample": [
+    "parse_errors_20260212_131218.json",
+    "parse_errors_20260212_131218.txt",
+    "VG_FrontAudit_All_v4.ps1",
+    "VG_FrontAudit_ToMd_v1.ps1",
+    "VG_HealGate_Audit.ps1",
+    "VG_InstructionPack_DiffGate_v2b.ps1",
+    "VG_SMB_Map.ps1"
+  ],
+  "tags": [],
+  "notes": "basic engine v1 (manifest+summary only; no review)"
+}

@@ -1,0 +1,20 @@
+{
+  "incident_id": "incident_seed_20260220_171528",
+  "created_utc": "2026-02-20T16:15:28.7165657Z",
+  "source_zip": {
+    "path": "D:\\VGPlatform\\incidents\\_seed\\incident_seed_20260220_171528.zip",
+    "name": "incident_seed_20260220_171528.zip",
+    "bytes": 236,
+    "sha256": "7E9407A4B2903C6C4FA9752C4EFA58408BD274D991DF2F6344707C680BCDE78E"
+  },
+  "stage": {
+    "stage_root": "D:\\VGPlatform\\labs\\publish_staging",
+    "stage_dir": "D:\\VGPlatform\\labs\\publish_staging\\incident_seed_20260220_171528",
+    "artifact_zip": "D:\\VGPlatform\\labs\\publish_staging\\incident_seed_20260220_171528\\artifact\\incident_seed_20260220_171528.zip"
+  },
+  "zip_entries_sample": [
+    "seed.txt"
+  ],
+  "tags": [],
+  "notes": "basic engine v1 (manifest+summary only; no review)"
+}
