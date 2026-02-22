@@ -1,0 +1,6 @@
+# normalize text files
+* text=auto
+
+# keep markdown/json stable
+*.md   text eol=lf
+*.json text eol=lf
