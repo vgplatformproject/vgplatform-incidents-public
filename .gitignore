@@ -1,3 +1,7 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+# VG public export: local backups
+*.bak_*
+*.bak_fixmarker_*
+*.bak_fixmarker*
