@@ -9,11 +9,11 @@ SHA256: 304173F57C5825FC03308F7727B1F2470F0CF8FF689668C683F9C8B728AA09F9
 StageDir: <redacted_path>
 
 ZipEntries(sample, capped):
-- logs/newest_tail_VGROOT_logs_agent_wd_2026-02-04.log
-- logs/newest_tail_VGROOT_logs_ops_pid_wd_cmd_2026-02-04.log
-- logs/newest_tail_VGROOT_logs_orch_heartbeat_normalize_20260204.log
-- logs/newest_tail_VGROOT_logs_orch_heartbeat_task_20260204.log
-- logs/newest_tail_VGROOT_logs_q_q_worker_vgcore_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_agent_watchdog_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_ops_pid_watchdog_cmd_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_orchestrator_heartbeat_normalize_20260204.log
+- logs/newest_tail_D__VGPlatform_logs_orchestrator_heartbeat_task_20260204.log
+- logs/newest_tail_D__VGPlatform_logs_queue_queue_worker_vgcore_2026-02-04.log
 - meta/meta.json
 - meta/summary.txt
 - meta/system.txt
@@ -24,6 +24,5 @@ ZipEntries(sample, capped):
 - state/runtime_dashboard.port
 - state/runtime_heartbeat.json
 - README.md
-
 
 

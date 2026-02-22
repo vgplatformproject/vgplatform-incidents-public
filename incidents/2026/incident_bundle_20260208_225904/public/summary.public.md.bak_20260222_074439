@@ -12,10 +12,10 @@ ZipEntries(sample, capped):
 - extracted/agent.pid
 - extracted/dashboard.pid
 - extracted/dashboard.port
-- extracted/enq.ps1
+- extracted/enqueue.ps1
 - extracted/health_last.md
 - extracted/heartbeat.json
-- extracted/q_worker.ps1
+- extracted/queue_worker.ps1
 - extracted/start_agent_guard.ps1
 - extracted/start_agent.ps1
 - extracted/start_dashboard_8501.ps1
@@ -38,11 +38,11 @@ ZipEntries(sample, capped):
 - extracted/vg_all.ps1.bak_pidfix_20260205_005034
 - extracted/vg_all.ps1.bak_pidfix_20260205_010529
 - extracted/VG_HealthReport_v1.ps1
-- logs/newest_tail_VGROOT_logs_agent_wd_2026-02-04.log
-- logs/newest_tail_VGROOT_logs_ops_pid_wd_cmd_2026-02-04.log
-- logs/newest_tail_VGROOT_logs_orch_heartbeat_normalize_20260204.log
-- logs/newest_tail_VGROOT_logs_orch_heartbeat_task_20260204.log
-- logs/newest_tail_VGROOT_logs_q_q_worker_vgcore_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_agent_watchdog_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_ops_pid_watchdog_cmd_2026-02-04.log
+- logs/newest_tail_D__VGPlatform_logs_orchestrator_heartbeat_normalize_20260204.log
+- logs/newest_tail_D__VGPlatform_logs_orchestrator_heartbeat_task_20260204.log
+- logs/newest_tail_D__VGPlatform_logs_queue_queue_worker_vgcore_2026-02-04.log
 - meta/meta.json
 - meta/summary.txt
 - meta/system.txt
@@ -58,6 +58,5 @@ ZipEntries(sample, capped):
 - obs_snapshot.json
 - obs_snapshot.md
 - README.md
-
 
 
