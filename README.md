@@ -17,6 +17,16 @@ grant write permission
 Result:
 incident resolved in 2 minutes
 
+## How VGPlatform turns incidents into knowledge
+
+```mermaid
+flowchart TD
+  A[Failure / anomaly] --> B[Capture: logs + context]
+  B --> C[Sanitize + package]
+  C --> D[Analyze: similarity + root cause hints]
+  D --> E[Knowledge base (this repo)]
+  E --> F[Prevent recurrence: gates + checks]
+
 Real-world software incidents and root cause analysis captured by VGPlatform Incident Intelligence system
 
 This repository contains sanitized incident knowledge for research, reliability engineering, and DevOps learning.
