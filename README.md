@@ -1,2 +1,2 @@
 # vgplatform-incidents-public
-Sanitized public incident summaries from VGPlatform AI/OPS system
+Sanitized incident summaries & public manifests exported from VGPlatform (local-first AI/OPS platform).
