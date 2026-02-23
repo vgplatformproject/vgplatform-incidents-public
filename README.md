@@ -21,9 +21,8 @@ incident resolved in 2 minutes
 
 ```mermaid
 flowchart TD
-  A[Failure / anomaly] --> B[Capture: logs + context]
-  B --> C[Sanitize + package]
-  C --> D[Analyze: similarity + root cause hints]
-  D --> E[Knowledge base (this repo)]
-  E --> F[Prevent recurrence: gates + checks]
-```
+  A["Failure or anomaly"] --> B["Capture logs and context"]
+  B --> C["Sanitize and package"]
+  C --> D["Analyze similarity and root cause hints"]
+  D --> E["Knowledge base this repo"]
+  E --> F["Prevent recurrence gates and checks"]
