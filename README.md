@@ -1,6 +1,23 @@
 VGPlatform Public Incident Knowledge Base
 
-Public incident summaries exported from VGPlatform, a local-first AI/OPS and reliability platform.
+# Example Incident
+
+Problem:
+
+permission denied write file
+
+VGPlatform analysis:
+
+Root cause:
+missing write permission on export directory
+
+Fix:
+grant write permission
+
+Result:
+incident resolved in 2 minutes
+
+Real-world software incidents and root cause analysis captured by VGPlatform Incident Intelligence system
 
 This repository contains sanitized incident knowledge for research, reliability engineering, and DevOps learning.
 
