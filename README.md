@@ -34,8 +34,7 @@ flowchart TD
   B --> C["Sanitize and package"]
   C --> D["Analyze similarity and root cause hints"]
   D --> E["Knowledge base"]
-  E --> F["Prevent recurrence"]
-Privacy and security
+  E --> F["Prevent recurrence"]`r`n```Privacy and security
 
 This repository contains sanitized data only.
 
