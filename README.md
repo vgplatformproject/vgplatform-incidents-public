@@ -43,22 +43,12 @@ No secrets
 No credentials
 No private logs
 
-Purpose
-
-This project exists to:
-
-• demonstrate incident intelligence
-• enable reliability research
-• accumulate operational knowledge
-
 Status
 
 Experimental research platform
 
 Active development
 
-License
-
-MIT
+MIT License
 
 VGPlatform Project
