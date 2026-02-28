@@ -53,3 +53,7 @@ License
 MIT License
 
 VGPlatform Project
+```
+
+## Privacy and security
+
